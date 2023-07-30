@@ -1,3 +1,5 @@
+Instructions
+-----------------------------
 clone the repo
 perform following commands 
 npm i 
